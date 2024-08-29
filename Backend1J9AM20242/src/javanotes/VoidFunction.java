@@ -54,8 +54,6 @@ public class VoidFunction {
 
             active = String.valueOf(StatusCostumer.TRUE);
 
-
-
         }else if(selection == 2){
             active = String.valueOf(StatusCostumer.FALSE);
         }else{
